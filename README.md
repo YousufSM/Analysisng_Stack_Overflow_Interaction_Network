@@ -8,4 +8,6 @@ Due to large image size, the results have not being saved in the .ipynb file and
 
 Since this was just my second project, there may be a possibility of inefficient codes/results.
 
+Data for the analysis has been taken from [SNAP website](http://snap.stanford.edu/data/sx-stackoverflow.html) and it consist of 4 DBs, namely, *comments to answers, comments to questions, answer to questions and a master DB* which the compilation of is former 3 DBs. Data consist of 7.6 years of user interaction on Stackoverflow.com.
+
 Note: Since the project was a group work, I have only included my part of the project with due academic permission.
