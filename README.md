@@ -10,4 +10,6 @@ Since this was just my second project, there may be a possibility of inefficient
 
 Data for the analysis has been taken from [SNAP website](http://snap.stanford.edu/data/sx-stackoverflow.html) and it consist of 4 DBs, namely, *comments to answers, comments to questions, answer to questions and a master DB* which the compilation of is former 3 DBs. Data consist of 7.6 years of user interaction on Stackoverflow.com.
 
+Source of the data: Ashwin Paranjape, Austin R. Benson, and Jure Leskovec. "Motifs in Temporal Networks." In Proceedings of the Tenth ACM International Conference on Web Search and Data Mining, 2017
+
 Note: Since the project was a group work, I have only included my part of the project with due academic permission.
